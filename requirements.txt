@@ -1,6 +1,0 @@
-streamlit
-requests
-sounddevice
-scipy
-pydub
-python-dotenv
